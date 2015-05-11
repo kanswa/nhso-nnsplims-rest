@@ -36,7 +36,7 @@ public class ApplicationContextConfig extends SpringBootServletInitializer {
 		dataSource.setDriverClassName("com.microsoft.sqlserver.jdbc.SQLServerDriver");
 		dataSource.setUrl("jdbc:sqlserver://localhost;instanceName=SQLEXPRESS;databaseName=NNSPLIMS");
 		dataSource.setUsername("kan");
-		dataSource.setPassword("22012525");
+		dataSource.setPassword("XXXXXXXX");
 		return dataSource;
 	}
 
