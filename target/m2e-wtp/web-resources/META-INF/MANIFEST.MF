@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: nnsplims-rest Maven Webapp
+Implementation-Version: 1.0.0
+Built-By: OMS
+Implementation-Vendor-Id: th.go.nhso
+Build-Jdk: 1.8.0_45
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: th.go.nhso.nnsplims.config.ApplicationContextConfig
+
